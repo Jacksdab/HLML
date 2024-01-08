@@ -1,5 +1,5 @@
 # HLML - Assessing the Robustness of Dawid-Skene Model: A Stress Test with Spammers on MNIST
-this repo contains the code for the assignment for HLML. 
+This repo contains the code for the assignment for HLML. 
 
 ## Usage
 
